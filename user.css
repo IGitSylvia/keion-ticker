@@ -1,0 +1,13 @@
+.kt-outer {
+  margin: 60px 30px;
+}
+
+.kt-text-inner {
+  font: normal bold 20px Arial;
+  color: black;
+}
+
+.comic .kt-text-inner {
+  font-family: "Comic Sans MS";
+  color: orange;
+}
